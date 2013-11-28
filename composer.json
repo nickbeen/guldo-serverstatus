@@ -1,0 +1,15 @@
+{
+  "name": "nickbeen/guldo-serverstatus",
+  "description": "Server status SPA",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "nickbeen",
+      "email": "66799549+nickbeen@users.noreply.github.com"
+    }
+  ],
+  "require": {
+    "php": "^5.6"
+  }
+}
