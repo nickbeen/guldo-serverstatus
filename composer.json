@@ -2,7 +2,8 @@
   "name": "nickbeen/guldo-serverstatus",
   "description": "Server status SPA",
   "minimum-stability": "stable",
-  "license": "proprietary",
+  "license": "MIT",
+  "time": "2013-11-28",
   "authors": [
     {
       "name": "nickbeen",
